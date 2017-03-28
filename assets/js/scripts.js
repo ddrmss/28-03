@@ -5,20 +5,20 @@ jQuery(document).ready(function() {
         Background slideshow
     */
     $('.coming-soon').backstretch([
-      "assets/img/backgrounds/1.jpg"
+      "assets/img/backgrounds/1.JPG"
     , "assets/img/backgrounds/2.jpg"
     , "assets/img/backgrounds/3.jpg"
     , "assets/img/backgrounds/4.jpg"
     , "assets/img/backgrounds/5.jpg"
-    , "assets/img/backgrounds/6.jpg"
-    , "assets/img/backgrounds/8.jpg"
-    , "assets/img/backgrounds/9.jpg"
-    , "assets/img/backgrounds/10.jpg"
-    , "assets/img/backgrounds/11.jpg"
-    , "assets/img/backgrounds/12.jpg"
-    , "assets/img/backgrounds/13.jpg"
-    , "assets/img/backgrounds/15.jpg"
-    , "assets/img/backgrounds/17.jpg"
+    , "assets/img/backgrounds/6.JPG"
+    , "assets/img/backgrounds/8.JPG"
+    , "assets/img/backgrounds/9.JPG"
+    , "assets/img/backgrounds/10.JPG"
+    , "assets/img/backgrounds/11.JPG"
+    , "assets/img/backgrounds/12.JPG"
+    , "assets/img/backgrounds/13.JPG"
+    , "assets/img/backgrounds/15.JPG"
+    , "assets/img/backgrounds/17.JPG"
     ], {duration: 3000, fade: 750});
 
     /*
