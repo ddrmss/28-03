@@ -9,7 +9,6 @@ jQuery(document).ready(function() {
     , "assets/img/backgrounds/2.jpg"
     , "assets/img/backgrounds/3.jpg"
     , "assets/img/backgrounds/4.jpg"
-    , "assets/img/backgrounds/5.jpg"
     , "assets/img/backgrounds/6.JPG"
     , "assets/img/backgrounds/8.JPG"
     , "assets/img/backgrounds/9.JPG"
@@ -24,7 +23,7 @@ jQuery(document).ready(function() {
     /*
 	    Countdown initializer
 	*/
-	var now = new Date(2017, 02, 28, 00, 00);
+	var now = new Date(2017, 03, 28, 00, 00);
 	var countTo = 0 * 0 * 0 * 0 * 0 + now.valueOf();    
 	$('.timer').countdown(countTo, function(event) {
 		$(this).find('.days').text(event.offset.totalDays);
